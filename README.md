@@ -1,2 +1,2 @@
 # learn-python
-just learn python
+just learn python and dynamo here
